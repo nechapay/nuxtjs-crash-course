@@ -1,5 +1,6 @@
 <template>
   <div class="containner">
+    <NavVue />
     <Hero />
     <LargeCardDisplay v-for="cardInfo in largeCardInfo" :key="cardInfo.id" :cardsSection="cardInfo" />
     <SmallCardDisaplay v-for="cardInfo in smallCardInfo" :key="cardInfo.id" :cardsSection="cardInfo" />
@@ -11,9 +12,10 @@ import Hero from '../components/Hero.vue'
 import LargeCardDisplay from '../components/LargeCardDisplay.vue'
 import { largeCardSections, smallCardSections } from '@/assets/data.js'
 import SmallCardDisaplay from '../components/SmallCardDisaplay.vue'
+import NavVue from '../components/Nav.vue'
 
 export default {
-  components: { Hero, LargeCardDisplay, SmallCardDisaplay },
+  components: { Hero, LargeCardDisplay, SmallCardDisaplay, NavVue },
   data() {
     return {
       largeCardInfo: largeCardSections,

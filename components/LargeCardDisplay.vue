@@ -3,7 +3,7 @@
     <h4 class="header">{{ cardsSection.title }}</h4>
     <p class="snippet">{{ cardsSection.spippet }}</p>
     <div class="cards-container">
-      <LargeCard v-for="card in cardsSection.cards" :key="card.image" :card="card" />
+      <LargeCard v-for="card in cardsSection.cards" :key="card.id" :card="card" />
     </div>
   </div>
 </template>
@@ -12,7 +12,7 @@
 import LargeCard from "./LargeCard.vue"
 export default {
   components: { LargeCard },
-  props: ['cardsSection']
+  props: [cardsSection]
 }
 </script>
 
