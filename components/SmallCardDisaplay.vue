@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <h3 class="header">{{ cardSection.title }}</h3>
+    <h3 class="header">{{ cardsSection.title }}</h3>
     <div class="card-container">
-      <SmallCard v-for="card in cardSection.cards" :key="card.id" :card="card" />
+      <SmallCard v-for="card in cardsSection.cards" :key="card.id" :card="card" />
     </div>
   </div>
 </template>
@@ -11,7 +11,7 @@
 import SmallCard from "./SmallCard.vue"
 export default {
   components: { SmallCard },
-  props: ['cardSection']
+  props: ['cardsSection']
 }
 </script>
 

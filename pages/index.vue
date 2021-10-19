@@ -1,8 +1,8 @@
 <template>
   <div class="containner">
     <Hero />
-    <LargeCardDisplay v-for="cardInfo in largeCardInfo" :key="cardInfo.id" :cardSection="cardInfo" />
-    <SmallCardDisaplay v-for="cardInfo in smallCardInfo" :key="cardInfo.id" :cardSection="cardInfo" />
+    <LargeCardDisplay v-for="cardInfo in largeCardInfo" :key="cardInfo.id" :cardsSection="cardInfo" />
+    <SmallCardDisaplay v-for="cardInfo in smallCardInfo" :key="cardInfo.id" :cardsSection="cardInfo" />
   </div>
 </template>
 
