@@ -8,7 +8,6 @@
 </template>
 
 <script>
-import SmallCard from "./SmallCard.vue"
 export default {
   components: { SmallCard },
   props: ['cardsSection']

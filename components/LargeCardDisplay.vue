@@ -9,9 +9,7 @@
 </template>
 
 <script>
-import LargeCard from "~/components/LargeCard.vue"
 export default {
-  components: { LargeCard },
   props: ['cardsSection']
 }
 </script>

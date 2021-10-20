@@ -1,0 +1,189 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Louis", "last": "Walker" },
+      "location": {
+        "street": { "number": 5458, "name": "George Street" },
+        "city": "Whanganui",
+        "state": "Southland",
+        "country": "New Zealand",
+        "postcode": 95221,
+        "coordinates": { "latitude": "60.7924", "longitude": "-26.4105" },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "louis.walker@example.com",
+      "login": {
+        "uuid": "acc84eaf-1b5f-48a4-92b2-dc2e7ed75bdc",
+        "username": "silvercat848",
+        "password": "billyboy",
+        "salt": "gSu9HPq3",
+        "md5": "cd6bf7167c3839479942a7dcf3360afe",
+        "sha1": "e2de16ac230168b790de980bc7cc56d8a26ea1bf",
+        "sha256": "ab34aecc8a917e639652ab5a64028b40851d3eb80d4256403a49b875584f73c4"
+      },
+      "dob": { "date": "1986-03-14T17:59:34.015Z", "age": 35 },
+      "registered": { "date": "2005-02-13T00:54:01.395Z", "age": 16 },
+      "phone": "(488)-436-8796",
+      "cell": "(437)-079-0809",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/91.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+      },
+      "nat": "NZ"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Vivan", "last": "May" },
+      "location": {
+        "street": { "number": 24, "name": "Homestead Rd" },
+        "city": "Detroit",
+        "state": "Missouri",
+        "country": "United States",
+        "postcode": 66325,
+        "coordinates": { "latitude": "78.9804", "longitude": "68.6972" },
+        "timezone": { "offset": "-10:00", "description": "Hawaii" }
+      },
+      "email": "vivan.may@example.com",
+      "login": {
+        "uuid": "66c0cf1d-1ef9-4f9c-9063-7a3c99e6b64a",
+        "username": "redfrog557",
+        "password": "davidson",
+        "salt": "mWIM5zSy",
+        "md5": "f12eb0d4a843da36bc1836360d4b5233",
+        "sha1": "4634b3bc4ac8c0c3eedb285f28a3652d9d6db575",
+        "sha256": "f8e04e4faaf5b4f8dd1b50706b8a3c6263d424d509a9bcf523fe0ac4c84ade99"
+      },
+      "dob": { "date": "1956-11-26T21:05:29.903Z", "age": 65 },
+      "registered": { "date": "2003-06-12T04:58:06.467Z", "age": 18 },
+      "phone": "(550)-884-6836",
+      "cell": "(568)-504-1195",
+      "id": { "name": "SSN", "value": "489-86-4504" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Inesita", "last": "da Luz" },
+      "location": {
+        "street": { "number": 1206, "name": "Rua Maranhão " },
+        "city": "Sobral",
+        "state": "Piauí",
+        "country": "Brazil",
+        "postcode": 97670,
+        "coordinates": { "latitude": "-32.3100", "longitude": "3.0140" },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "inesita.daluz@example.com",
+      "login": {
+        "uuid": "313890ee-7bd6-4a8b-a807-22f86deca690",
+        "username": "brownlion932",
+        "password": "virgil",
+        "salt": "hA6FaBhv",
+        "md5": "ffe54bcaff4fcfe1d27c03b109b255e1",
+        "sha1": "3e0209829268c83e7328240fde170a3b5052560b",
+        "sha256": "26430c0761661a63734028a50e894cd4e9a595595cbb47a37addcbfd17463a70"
+      },
+      "dob": { "date": "1978-12-15T06:04:09.234Z", "age": 43 },
+      "registered": { "date": "2009-06-07T22:20:22.365Z", "age": 12 },
+      "phone": "(37) 7930-3748",
+      "cell": "(15) 5025-7194",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/57.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+      },
+      "nat": "BR"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Lia", "last": "Stene" },
+      "location": {
+        "street": { "number": 158, "name": "Ellen Gleditsch' vei" },
+        "city": "Algarheim",
+        "state": "Description",
+        "country": "Norway",
+        "postcode": "7484",
+        "coordinates": { "latitude": "-5.1788", "longitude": "-149.6868" },
+        "timezone": { "offset": "-12:00", "description": "Eniwetok, Kwajalein" }
+      },
+      "email": "lia.stene@example.com",
+      "login": {
+        "uuid": "b64fb16d-af26-4e80-a15f-48ea695bbe60",
+        "username": "silverbear532",
+        "password": "dabears",
+        "salt": "qE43DeQr",
+        "md5": "a4881289e128a0ab22ce80590261f265",
+        "sha1": "a1ae3d2cb1e05669db698a169cd8fef23f1b974e",
+        "sha256": "7080ce1b98edf689fa6b355d686feedc4f483d00cc7d43c5471433514e2039ab"
+      },
+      "dob": { "date": "1993-01-03T09:22:51.656Z", "age": 28 },
+      "registered": { "date": "2012-05-22T18:09:38.425Z", "age": 9 },
+      "phone": "32472820",
+      "cell": "40471998",
+      "id": { "name": "FN", "value": "03019326062" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/48.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Hunter", "last": "Singh" },
+      "location": {
+        "street": { "number": 3618, "name": "Wainoni Road" },
+        "city": "Whanganui",
+        "state": "Nelson",
+        "country": "New Zealand",
+        "postcode": 19348,
+        "coordinates": { "latitude": "-21.7758", "longitude": "106.2255" },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "hunter.singh@example.com",
+      "login": {
+        "uuid": "7d288038-b2e7-4ce8-8600-203547ee71a4",
+        "username": "purplezebra576",
+        "password": "zzzzzzz",
+        "salt": "dM51eIA7",
+        "md5": "883c345d6beec1ffd285cecf54942e73",
+        "sha1": "999469cc2cdf86b7bd54d98d0ae166d09b79dfd0",
+        "sha256": "37b9e99e6179b8f6abedef3dce5bafa0bc82df6a2c58cafb024e157040735ec0"
+      },
+      "dob": { "date": "1973-02-19T08:32:16.251Z", "age": 48 },
+      "registered": { "date": "2008-05-27T12:25:41.401Z", "age": 13 },
+      "phone": "(826)-062-8438",
+      "cell": "(665)-048-3424",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "b3a2566d7cb1d60f",
+    "results": 5,
+    "page": 1,
+    "version": "1.3"
+  }
+}

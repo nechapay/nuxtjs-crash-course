@@ -1,10 +1,6 @@
 <template>
-  <NuxtLink :to="`/produscts/${card.id}`" class="card">
-    <img
-      :src="require(`@/assets/images/${card.image || 'fe1.jpg'}`)"
-      :alt="card.title"
-      class="image"
-    />
+  <NuxtLink :to="`/products/${card.id}`" class="card">
+    <img :src="require(`@/assets/images/${card.image || 'fe1.jpg'}`)" :alt="card.title" class="image" />
     <h3 class="header">{{ card.title }}</h3>
     <p class="snippet">{{ card.snippet }}</p>
   </NuxtLink>
