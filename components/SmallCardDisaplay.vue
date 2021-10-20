@@ -9,7 +9,6 @@
 
 <script>
 export default {
-  components: { SmallCard },
   props: ['cardsSection']
 }
 </script>
